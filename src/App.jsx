@@ -122,7 +122,7 @@ const sx = stylesheet({
 });
 
 const badgesStyle = stylesheet({
-    "簡易": {
+    "簡單": {
         $nest: {
             "&::after": {
                 content: "'EASY'",

@@ -36,7 +36,8 @@ const starsColor = [
     { num: 6, color: gold },
     { num: 7, color: gold },
     { num: 8, color: gold },
-    { num: 9, color: gold }
+    { num: 9, color: gold },
+    { num: 10, color: gold }
 ];
 
 export { starsColor };
